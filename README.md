@@ -19,6 +19,6 @@ See [build-demo.sh](build-demo.sh).
 Tag a release
 
 ```bash
-$ git tag backend/v1.0.0
-$ git push origin backend/v1.0.0
+$ git tag backend/v0.1.0
+$ git push origin backend/v0.1.0
 ```
