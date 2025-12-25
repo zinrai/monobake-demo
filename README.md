@@ -1,6 +1,6 @@
 # monobake-demo
 
-A demo of building Docker images with GitHub Actions and [monobake](https://github.com/yourorg/monobake).
+A demo of building Docker images with GitHub Actions and [monobake](https://github.com/zinrai/monobake).
 
 ## Applications
 
